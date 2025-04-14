@@ -1,5 +1,4 @@
 #!/usr/bin/env uvx
-
 # requirements: requests fastmcp
 from mcp.server.fastmcp import FastMCP
 import base64
